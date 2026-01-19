@@ -1,0 +1,117 @@
+{
+  "Navbar": {
+    "home": "Inicio",
+    "skills": "Habilidades",
+    "projects": "Proyectos",
+    "contact": "Contacto",
+    "toggleMenu": "Menú"
+  },
+  "Hero": {
+    "title1": "Hola, soy",
+    "title2": "Desarrollo experiencias web minimalistas y modernas.",
+    "description": "Desarrollador Full Stack Senior con amplia trayectoria en la creación de ecosistemas web escalables utilizando Angular, React, Next.js y Node.js. Especializado en arquitectura de software robusta, optimización de rendimiento y experiencias de usuario de alto impacto.",
+    "viewProjects": "Ver Proyectos",
+    "letsConnect": "Conectemos"
+  },
+  "Skills": {
+    "title": "Habilidades y Experiencia",
+    "description": "Una lista completa de las tecnologías que uso para construir aplicaciones web escalables y modernas.",
+    "categories": {
+      "Frontend": "Frontend",
+      "Backend": "Backend",
+      "Testing": "Testing",
+      "Databases": "Databases",
+      "MethodologiesTools": "Metodologías y Herramientas"
+    },
+    "descriptions": {
+      "Frontend": "Frameworks y librerías para el desarrollo de interfaces.",
+      "Backend": "Tecnologías de servidor y lenguajes de programación.",
+      "Testing": "Herramientas de automatización y pruebas unitarias.",
+      "Databases": "Sistemas de gestión de bases de datos y almacenamiento.",
+      "MethodologiesTools": "Prácticas ágiles y herramientas de productividad."
+    }
+  },
+  "Projects": {
+    "title": "Proyectos Destacados",
+    "description": "Una selección de mi trabajo reciente, incluyendo aplicaciones de nivel empresarial y sistemas de alto rendimiento.",
+    "viewCode": "GitHub",
+    "viewDemo": "Demo",
+    "preview": "Vista Previa",
+    "awards": "Premios y Reconocimientos",
+    "items": {
+      "bwork": {
+        "title": "B-work",
+        "company": "Bancolombia",
+        "description": "Plataforma de gestión de espacios de trabajo optimizada para la reserva inteligente de puestos físicos basada en disponibilidad en tiempo real, perfiles de usuario y requisitos técnicos del equipo.",
+        "awards": [
+          "Mejor aplicación Bancolombia 2021-2022."
+        ]
+      },
+      "inversiones": {
+        "title": "App Inversiones",
+        "company": "Banco Santander Chile",
+        "description": "Dashboard financiero de alta fidelidad para el monitoreo de liquidez y rentabilidad multi-moneda. Implementa visualización de datos complejos y proyecciones de inversión en tiempo real.",
+        "awards": [
+          "Diseño futurista y visualización de gráficos estadísticos avanzados."
+        ]
+      },
+      "tiquetera": {
+        "title": "Tiquetera de beneficios",
+        "company": "AlgarTech",
+        "description": "Sistema de gestión de capital humano (HCM) para la administración automatizada de beneficios corporativos. Incluye flujos de aprobación jerárquicos y trazabilidad de tickets de solicitud.",
+        "awards": [
+          "Aplicación innovadora hecha a la medida de RRHH y las necesidades del empleado."
+        ]
+      },
+      "comisiones": {
+        "title": "Comisiones App",
+        "company": "Madecentro",
+        "description": "Motor de cálculo algorítmico integrado al ERP institucional para la liquidación automatizada de comisiones. Utiliza lógica predictiva basada en métricas de cumplimiento y KPIs de ventas.",
+        "awards": [
+          "Mejora sustancial y eficiencia en los procesos de liquidación masiva."
+        ]
+      },
+      "precios": {
+        "title": "Actualización de precios y descuentos",
+        "company": "Madecentro",
+        "description": "Herramienta de procesamiento masivo de datos para la ingesta y sincronización de catálogos CSV a gran escala. Optimiza la actualización de precios y estructuras de descuento mediante algoritmos de procesamiento por lotes.",
+        "awards": [
+          "Reducción crítica en tiempos de actualización y optimización de precesos de carga."
+        ]
+      },
+      "portfolio": {
+        "title": "Portafolio Personal",
+        "company": "Proyecto Personal",
+        "description": "Portafolio moderno de alta fidelidad construido con Next.js y Framer Motion. Incluye efectos de glassmorphism, carruseles infinitos y soporte multi-idioma con una estética galáctica premium.",
+        "awards": [
+          "Diseño Minimalista y Moderno Premium"
+        ]
+      }
+    }
+  },
+  "Contact": {
+    "title": "Contáctame",
+    "description": "¿Tienes un proyecto en mente o solo quieres charlar? Envíame un mensaje o conecta en redes sociales.",
+    "form": {
+      "title": "Formulario de Contacto",
+      "description": "Completa el formulario a continuación y te responderé lo antes posible.",
+      "name": "Nombre",
+      "email": "Correo",
+      "message": "Mensaje",
+      "send": "Enviar Mensaje",
+      "success": "¡Mensaje enviado!",
+      "error": "Por favor completa todos los campos.",
+      "placeholders": {
+        "name": "Elkin Gutierrex",
+        "email": "egx.innovation@gmail.com",
+        "message": "Consulta sobre proyecto..."
+      }
+    },
+    "details": "Detalles",
+    "socials": "Redes"
+  },
+  "Footer": {
+    "builtBy": "",
+    "sourceCode": "El código fuente está disponible en"
+  }
+}

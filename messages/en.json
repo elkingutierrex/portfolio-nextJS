@@ -1,0 +1,117 @@
+{
+  "Navbar": {
+    "home": "Home",
+    "skills": "Skills",
+    "projects": "Projects",
+    "contact": "Contact",
+    "toggleMenu": "Toggle Menu"
+  },
+  "Hero": {
+    "title1": "Hi, I am",
+    "title2": "I build minimalist & modern web experiences.",
+    "description": "Senior Full Stack Developer with extensive experience building scalable web ecosystems using Angular, React, Next.js, and Node.js. Focused on robust software architecture, performance optimization, and high-impact user experiences.",
+    "viewProjects": "View Projects",
+    "letsConnect": "Let's Connect"
+  },
+  "Skills": {
+    "title": "Skills & Expertise",
+    "description": "A comprehensive list of technologies I use to build scalable and modern web applications.",
+    "categories": {
+      "Frontend": "Frontend",
+      "Backend": "Backend",
+      "Testing": "Testing",
+      "Databases": "Databases",
+      "MethodologiesTools": "Methodologies & Tools"
+    },
+    "descriptions": {
+      "Frontend": "Frameworks and libraries for interface development.",
+      "Backend": "Server technologies and programming languages.",
+      "Testing": "Automation tools and unit testing.",
+      "Databases": "Database management systems and storage.",
+      "MethodologiesTools": "Agile practices and productivity tools."
+    }
+  },
+  "Projects": {
+    "title": "Featured Projects",
+    "description": "A selection of my recent work including enterprise-grade applications and high-performance systems.",
+    "viewCode": "GitHub",
+    "viewDemo": "Demo",
+    "preview": "Preview",
+    "awards": "Awards & Recognition",
+    "items": {
+      "bwork": {
+        "title": "B-work",
+        "company": "Bancolombia",
+        "description": "Enterprise workspace management platform optimized for intelligent physical desk booking based on real-time availability, user profiles, and specific team technical requirements.",
+        "awards": [
+          "Best Bancolombia Application 2021-2022."
+        ]
+      },
+      "inversiones": {
+        "title": "App Inversiones",
+        "company": "Banco Santander Chile",
+        "description": "High-fidelity financial dashboard for multi-currency liquidity and profitability monitoring. Implements complex data visualization and real-time investment projections.",
+        "awards": [
+          "Futuristic design and advanced statistical data visualization."
+        ]
+      },
+      "tiquetera": {
+        "title": "Benefits Ticketing",
+        "company": "AlgarTech",
+        "description": "Human Capital Management (HCM) system for automated corporate benefits administration. Features hierarchical approval workflows and request ticket traceability.",
+        "awards": [
+          "Innovative application tailored for HR and employee needs."
+        ]
+      },
+      "comisiones": {
+        "title": "Commissions App",
+        "company": "Madecentro",
+        "description": "Algorithmic calculation engine integrated with enterprise ERP for automated commission settlement. Leverages predictive logic based on compliance metrics and sales KPIs.",
+        "awards": [
+          "Substantial improvement and efficiency in mass settlement processes."
+        ]
+      },
+      "precios": {
+        "title": "Price & Discount Update",
+        "company": "Madecentro",
+        "description": "High-performance data processing tool for large-scale CSV catalog ingestion and synchronization. Optimizes price updates and discount structures using batch processing algorithms.",
+        "awards": [
+          "Critical reduction in update times and loading process optimization."
+        ]
+      },
+      "portfolio": {
+        "title": "Personal Portfolio",
+        "company": "Personal Project",
+        "description": "Modern high-fidelity portfolio built with Next.js and Framer Motion. Features glassmorphism effects, infinite carousels, and multi-language support with a premium galaxy aesthetic.",
+        "awards": [
+          "Modern Premium Minimalist Design"
+        ]
+      }
+    }
+  },
+  "Contact": {
+    "title": "Get In Touch",
+    "description": "Have a project in mind or just want to chat? Send me a message or connect on social media.",
+    "form": {
+      "title": "Contact Form",
+      "description": "Fill out the form below and I'll get back to you as soon as possible.",
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "send": "Send Message",
+      "success": "Message sent!",
+      "error": "Please fill in all fields.",
+      "placeholders": {
+        "name": "Elkin Gutierrex",
+        "email": "egx.innovation@gmail.com",
+        "message": "Project inquiry..."
+      }
+    },
+    "details": "Details",
+    "socials": "Socials"
+  },
+  "Footer": {
+    "builtBy": "",
+    "sourceCode": "The source code is available on"
+  }
+}
