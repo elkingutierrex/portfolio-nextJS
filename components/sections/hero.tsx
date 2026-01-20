@@ -72,7 +72,7 @@ export function Hero() {
                     animate={{ opacity: 1, y: 0 }}
                     transition={{ duration: 0.5 }}
                 >
-                    <div className="inline-flex items-center rounded-full border border-white/10 bg-white/5 px-4 py-1.5 text-sm font-medium text-primary-foreground backdrop-blur-md shadow-[0_0_20px_rgba(124,58,237,0.2)]">
+                    <div className="inline-flex items-center rounded-full border border-primary/20 bg-primary/10 dark:border-white/10 dark:bg-white/5 px-4 py-1.5 text-sm font-medium text-primary dark:text-primary-foreground backdrop-blur-md shadow-[0_0_20px_rgba(124,58,237,0.2)]">
                         <span className="flex h-2 w-2 rounded-full bg-green-500 mr-2 animate-pulse"></span>
                         {t('title2')}
                     </div>
@@ -97,7 +97,7 @@ export function Hero() {
                     initial={{ opacity: 0, y: 20 }}
                     animate={{ opacity: 1, y: 0 }}
                     transition={{ duration: 0.5, delay: 0.2 }}
-                    className="max-w-[600px] text-lg text-muted-foreground md:text-xl leading-relaxed"
+                    className="max-w-[600px] text-lg text-foreground/80 dark:text-muted-foreground md:text-xl leading-relaxed"
                 >
                     {t('description')}
                 </motion.p>
