@@ -40,7 +40,7 @@
     "awards": "Awards & Recognition",
     "items": {
       "bwork": {
-        "title": "B-work",
+        "title": "B-Work",
         "company": "Bancolombia",
         "description": "Enterprise workspace management platform optimized for intelligent physical desk booking based on real-time availability, user profiles, and specific team technical requirements.",
         "awards": [
@@ -48,7 +48,7 @@
         ]
       },
       "inversiones": {
-        "title": "App Inversiones",
+        "title": "App Investment",
         "company": "Banco Santander Chile",
         "description": "High-fidelity financial dashboard for multi-currency liquidity and profitability monitoring. Implements complex data visualization and real-time investment projections.",
         "awards": [
