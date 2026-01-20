@@ -102,8 +102,8 @@
       "success": "¡Mensaje enviado!",
       "error": "Por favor completa todos los campos.",
       "placeholders": {
-        "name": "Elkin Gutierrex",
-        "email": "egx.innovation@gmail.com",
+        "name": "Nombre",
+        "email": "example@mail.com",
         "message": "Consulta sobre proyecto..."
       }
     },
