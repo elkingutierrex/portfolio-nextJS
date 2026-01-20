@@ -39,6 +39,7 @@ export default async function LocaleLayout({
             defaultTheme="dark"
             enableSystem={false}
             disableTransitionOnChange
+            value={{ light: "light", dark: "dark" }}
           >
             {children}
           </ThemeProvider>
