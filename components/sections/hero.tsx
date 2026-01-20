@@ -64,7 +64,7 @@ export function Hero() {
     }, []);
 
     return (
-        <section id="hero" className="container grid lg:grid-cols-2 items-center gap-10 pb-8 pt-24 md:pt-32 min-h-screen">
+        <section id="hero" className="px-1 md:px-6 lg:container grid lg:grid-cols-2 items-center gap-10 pb-8 pt-24 md:pt-32 min-h-screen mx-auto">
             <div className="flex flex-col items-start gap-6 z-10 order-2 lg:order-1">
                 {/* Glass Badge */}
                 <motion.div

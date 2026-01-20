@@ -24,7 +24,7 @@ export function Skills() {
     const categories = ["Frontend", "Backend", "Testing", "Databases", "MethodologiesTools"] as const
 
     return (
-        <section id="skills" className="container py-8 md:py-12 lg:py-24">
+        <section id="skills" className="px-1 md:px-6 lg:container py-8 md:py-12 lg:py-24 mx-auto">
             <motion.div
                 initial={{ opacity: 0, y: 20 }}
                 whileInView={{ opacity: 1, y: 0 }}

@@ -139,7 +139,7 @@ export function Projects() {
                 whileInView={{ opacity: 1, y: 0 }}
                 transition={{ duration: 0.5 }}
                 viewport={{ once: true }}
-                className="container mx-auto flex max-w-[58rem] flex-col items-center justify-center gap-4 text-center mb-10"
+                className="px-1 md:px-6 lg:container mx-auto flex max-w-[58rem] flex-col items-center justify-center gap-4 text-center mb-10"
             >
                 <h2 className="text-3xl font-bold leading-[1.1] sm:text-3xl md:text-6xl">
                     {t('title')}

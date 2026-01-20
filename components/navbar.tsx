@@ -26,8 +26,8 @@ export function Navbar() {
     ]
 
     return (
-        <nav className="fixed top-0 z-50 w-full pt-6 px-4">
-            <div className="container mx-auto flex items-center justify-between rounded-full border border-border/50 bg-background/60 px-6 py-3 backdrop-blur-xl shadow-lg supports-[backdrop-filter]:bg-background/40">
+        <nav className="fixed top-0 z-50 w-full pt-6 px-1 md:px-4">
+            <div className="px-4 md:px-6 lg:container mx-auto flex items-center justify-between rounded-full border border-border/50 bg-background/60 px-6 py-3 backdrop-blur-xl shadow-lg supports-[backdrop-filter]:bg-background/40">
                 {/* Logo Area */}
                 <Link href="/" className="flex items-center space-x-2">
                     <img src="/logo.png" alt="Logo" className="h-10 w-10 min-w-10 rounded-full border border-white/20" />
